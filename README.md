@@ -16,4 +16,3 @@ Crianças valem por 0,5.
 -JavaScript <br>
 -CSS <br>
 -HTML <br>
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://https://github.com/eduslug/master/LICENSE) para mais detalhes.
